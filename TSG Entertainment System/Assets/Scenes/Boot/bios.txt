@@ -1,0 +1,15 @@
+Intel UNDI, PXE-2.1 (build 083)
+Copyright (C) 1997-2000 Intel Corporation
+Realtek PCIe GBE Family Controller Series v2.57
+PXE-E61: Media Storage succeed, checking File System
+PXE-M0F: Exiting PXE ROM
+Initialising USB Controllers
+USB Device(s): 1 Mouse, 1 Keyboard
+Auto-Detecting SATA 1 ... IDE Hard Disk
+Sata 1: ST2000DM001-1CH164 ATA Device
+		S.M.A.R.T. Capable and Status OK
+Autodetecting USB Mass Storage Devices
+01 USB Mass Storage Devices found and configured
+TSG Entertainment System (C) 2019 successfully loaded
+TSG Entertainment System Link successfully enabled and established
+Booting from SATA 1...
